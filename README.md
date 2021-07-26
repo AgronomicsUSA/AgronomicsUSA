@@ -4,7 +4,6 @@
 - 📫 How to reach me:
   - kieran@agronomicsusa.com (developer)
   - jim@agronomicsusa.com (company owner)
-  - kieran.milligan@gmail.com (developer personal e-mail)
 
 <!---
 AgronomicsUSA/AgronomicsUSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
